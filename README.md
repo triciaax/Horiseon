@@ -5,4 +5,4 @@ This is a code refactor project for module 1 of the bootcamp. In this assignment
 ![project-screenshot](Develop/assets/images/01-html-css-git-homework-demo.png)
 
 ## Link to deployed application
-https://triciaax.github.io/module1-Horiseon/
+https://triciaax.github.io/module1-Horiseon/Develop/index.html
